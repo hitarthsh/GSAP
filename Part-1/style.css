@@ -10,7 +10,7 @@ html , body{
 }
 
 body{
-    background-color: #111;
+    background-color: ;
 }
 #box{
     height: 220px;
@@ -26,4 +26,10 @@ body{
     height: 220px;
     width: 220px;
     background-color: lightcoral;
+}
+
+h1{
+    /* color: white; */
+    display: flex;
+    justify-content: center;
 }
