@@ -9,6 +9,9 @@ html , body{
     width: 100%;
 }
 
+body{
+    background-color: #111;
+}
 #box{
     height: 300px;
     width: 300px;
