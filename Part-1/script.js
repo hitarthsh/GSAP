@@ -17,4 +17,5 @@ gsap.to("#box2", {
 gsap.from("h1", {
     color: "red",
     duration: 2,
+    delay:1,
 })
