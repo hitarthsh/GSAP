@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: gilroy;
+  background-color: #111;
 }
 html,
 body {
@@ -10,9 +11,9 @@ body {
   width: 100%;
 }
 
-body {
-  background-color: ;
-}
+/* body {
+  background: color #111;
+} */
 #box {
   height: 220px;
   width: 220px;
@@ -30,7 +31,7 @@ body {
 }
 
 h1 {
-  /* color: white; */
+  color: white;
   display: flex;
   justify-content: center;
 }
