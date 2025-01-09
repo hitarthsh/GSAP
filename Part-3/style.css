@@ -14,8 +14,14 @@ body {
 }
 
 #string {
-  height: 200px;
-  width: 100%;
-  /* background-color: red; */
+  width: 100vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+svg {
+  width: 80%;
+  height: 80%;
+}
