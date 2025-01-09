@@ -19,6 +19,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgba(153, 205, 50, 0.644);
 }
 
 svg {
