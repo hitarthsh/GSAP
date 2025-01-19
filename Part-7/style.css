@@ -13,11 +13,11 @@ html,
 body {
     height: 100%;
     width: 100%;
+    background: url(./img/leaves-6640617.jpg) no-repeat center center fixed;
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
 }
 
-body {
-    background-color: #111;
-}
 
 #page1,
 #page2,
